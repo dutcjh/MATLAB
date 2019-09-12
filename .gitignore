@@ -1,0 +1,15 @@
+*.xlsx
+*.xls
+*.mat
+*.doc
+*.docx
+*.png
+*.jpg
+*.jpeg
+*.fig
+*.svg
+*.eps
+*.ai
+
+*.exe
+*.o
