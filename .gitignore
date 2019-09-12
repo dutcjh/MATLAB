@@ -1,3 +1,9 @@
+/MATLAB/
+/WPT_S/
+/WPT_S_exe/
+/SWPT/
+/SDCEP/
+
 *.xlsx
 *.xls
 *.mat
@@ -10,6 +16,10 @@
 *.svg
 *.eps
 *.ai
-
+*.slx
+*.ttf
 *.exe
 *.o
+*.wav
+*.mp3
+*.sfit
